@@ -1,1 +1,2 @@
 Fixing feature 1.
+Fixing feature 2.
